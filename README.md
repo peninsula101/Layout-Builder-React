@@ -8,6 +8,8 @@ In this project, let's build a **Layout Builder App** by applying the concepts w
 </div>
 <br/>
 
+## Published Link: https://tvslayout.ccbp.tech/
+
 ### Design Files
 
 <details>
